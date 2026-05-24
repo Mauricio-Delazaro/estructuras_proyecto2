@@ -1,0 +1,1814 @@
+[
+  {
+    "paperId": "ac49f1cccd324a7cfbf8a071d4fa67c4d6332c81",
+    "title": "Balanceo inteligente de carga de trabajo en sistemas distribuidos heterogéneos",
+    "authors": [
+      {
+        "authorId": "32217869",
+        "name": "D. L. R. Martínez"
+      },
+      {
+        "authorId": "2339945802",
+        "name": "Terecio Marecos Brizuela"
+      },
+      {
+        "authorId": "2070024101",
+        "name": "Federico Agostini"
+      },
+      {
+        "authorId": "2169588308",
+        "name": "Jorge Tomás Fornerón Martínez"
+      },
+      {
+        "authorId": "34184966",
+        "name": "J. Acosta"
+      }
+    ],
+    "year": 2025
+  },
+  {
+    "paperId": "6b31faa03cd993234dab30547fcc29fd0add3f6b",
+    "title": "Abordagem para seleção de exemplos trabalhados para engenharia de software do domínio de sistemas distribuídos",
+    "authors": [
+      {
+        "authorId": "153865884",
+        "name": "Breno Gabriel da Silva"
+      },
+      {
+        "authorId": "2064639279",
+        "name": "I. Wiese"
+      },
+      {
+        "authorId": "2096144278",
+        "name": "Rodrigo Campiolo"
+      },
+      {
+        "authorId": "2279720701",
+        "name": "Marco Aurélio Graciotto Silva"
+      }
+    ],
+    "year": 2024
+  },
+  {
+    "paperId": "e22456061ba8d4bec0375dbca02123735728105b",
+    "title": "Inmersión a los algoritmos de sincronización de relojes en sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "1422278110",
+        "name": "Gabriel Gerónimo-Castillo"
+      },
+      {
+        "authorId": "1485097555",
+        "name": "E. H. Rocha-Trejo"
+      },
+      {
+        "authorId": "2223301112",
+        "name": "Carlos Vázquez-Cid de León"
+      }
+    ],
+    "year": 2024
+  },
+  {
+    "paperId": "4f5462b5638c675b070c340863479d1d2307d7a2",
+    "title": "Nuevos algoritmos inteligentes de gestión de recursos y procesos para sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "20769119",
+        "name": "Stella M. Gerzel"
+      },
+      {
+        "authorId": "2420413661",
+        "name": "Luis David La Red Martinez"
+      },
+      {
+        "authorId": "2070024101",
+        "name": "Federico Agostini"
+      }
+    ],
+    "year": 2026
+  },
+  {
+    "paperId": "754b727de9d3023f37fe6c0cd3a127ca52382c46",
+    "title": "Proposta de uma biblioteca para replicação transparente em Sistemas Distribuı́dos utilizando JGroups",
+    "authors": [
+      {
+        "authorId": "144653889",
+        "name": "Carolina Martins Pereira Alves"
+      },
+      {
+        "authorId": "2092413217",
+        "name": "O. M. Mendizabal"
+      }
+    ],
+    "year": 2022
+  },
+  {
+    "paperId": "9f6abd9123a99d598510bd091af005f1b9b80fb1",
+    "title": "Um algoritmo de Membership para o modelo Síncrono Particionado (SPA) de Sistemas Distribuídos com particionamento forte",
+    "authors": [
+      {
+        "authorId": "2151967173",
+        "name": "Maria Clara Aderne dos Santos"
+      },
+      {
+        "authorId": "2120000925",
+        "name": "Sérgio Gorender"
+      }
+    ],
+    "year": 2021
+  },
+  {
+    "paperId": "67d11d484f3b0d3c6d6b4f090bc408981818b128",
+    "title": "Un novedoso concepto de sistema de diagnóstico para Sistemas Distribuidos Seguros",
+    "authors": [
+      {
+        "authorId": "2142009564",
+        "name": "Javier Dario Leon-García"
+      },
+      {
+        "authorId": "2141979548",
+        "name": "Sebastian Imle"
+      }
+    ],
+    "year": 2021
+  },
+  {
+    "paperId": "f72ac339e828d10a377c475542854c5bc1a64187",
+    "title": "Método de sincronización para sistemas distribuidos con singularidad funcional",
+    "authors": [
+      {
+        "authorId": "2082623528",
+        "name": "Ekain Azketa"
+      },
+      {
+        "authorId": "2099568283",
+        "name": "Xabier Mendialdua"
+      },
+      {
+        "authorId": "2085704411",
+        "name": "I. Ibarguren"
+      },
+      {
+        "authorId": "47992997",
+        "name": "A. Solís"
+      }
+    ],
+    "year": 2021
+  },
+  {
+    "paperId": "2c37d90867e30755d9211212af75605bfef491ce",
+    "title": "Diseño de una metodología gerencial para proyectos de sistemas distribuidos de antenas",
+    "authors": [
+      {
+        "authorId": "2124755276",
+        "name": "Yira Liliana Bulevas Osorio"
+      }
+    ],
+    "year": 2020
+  },
+  {
+    "paperId": "ae8183b504fccfaee7595b3344378c1db32227dd",
+    "title": "DDS en el desarrollo de sistemas distribuidos heterogéneos con soporte para criticidad mixta",
+    "authors": [
+      {
+        "authorId": "2126633884",
+        "name": "Héctor Pérez Tijero"
+      },
+      {
+        "authorId": "1685691",
+        "name": "J. Javier Gutiérrez"
+      }
+    ],
+    "year": 2020
+  },
+  {
+    "paperId": "3348a0dc292de339b2b25361728086d5bc8853f8",
+    "title": "Sistemas distribuidos en tiempo real: Cloud Robotics",
+    "authors": [
+      {
+        "authorId": "2102168233",
+        "name": "Juan Manuel Paniego"
+      },
+      {
+        "authorId": "2813331",
+        "name": "F. Chichizola"
+      },
+      {
+        "authorId": "2064171085",
+        "name": "Armando Eduardo De Giusti"
+      }
+    ],
+    "year": 2019
+  },
+  {
+    "paperId": "e22ecc182bc5f2b443031947d021943e085230d8",
+    "title": "Avances en Algoritmos de Exclusión Mutua en Sistemas Distribuidos",
+    "authors": [
+      {
+        "authorId": "2127289201",
+        "name": "Daniel Sánchez Ruiz"
+      },
+      {
+        "authorId": "2126358323",
+        "name": "H. Castillo Zacatelco"
+      },
+      {
+        "authorId": "2126365197",
+        "name": "Claudia Zepeda Cortés"
+      },
+      {
+        "authorId": "2159812614",
+        "name": "Rafael de la Rosa Flores"
+      },
+      {
+        "authorId": "2212402008",
+        "name": "Ana Patricia Cervantes Máquez"
+      },
+      {
+        "authorId": "2159814909",
+        "name": "Misael Limón Martínez"
+      },
+      {
+        "authorId": "1739964720",
+        "name": "José Luis Carballido Carranza"
+      }
+    ],
+    "year": 2019
+  },
+  {
+    "paperId": "ed4652e7d267bf96ffc83fb4f0baafebc2dd4dcf",
+    "title": "Um estudo comparativo de simuladores para sistemas distribuídos",
+    "authors": [
+      {
+        "authorId": "104197884",
+        "name": "Gabriel F. C. de Queiroz"
+      },
+      {
+        "authorId": "2066330534",
+        "name": "R. Couto"
+      },
+      {
+        "authorId": "2079603192",
+        "name": "Alexandre Sztajnberg"
+      }
+    ],
+    "year": 2019
+  },
+  {
+    "paperId": "6bc38de7df88b9068f1f53ae4051c403a1389291",
+    "title": "Aprendizagem Adaptativa em Aulas Invertidas de Sistemas Distribuídos: um estudo de caso apoiado no G Suite",
+    "authors": [
+      {
+        "authorId": "40830617",
+        "name": "P. Araújo"
+      },
+      {
+        "authorId": "2060031432",
+        "name": "Windson Viana"
+      },
+      {
+        "authorId": "3360418",
+        "name": "N. Veras"
+      },
+      {
+        "authorId": "1960343",
+        "name": "J. A. C. Filho"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "paperId": "92c0f4c1548b9a446b4a7e662c05df7b5a31f9e9",
+    "title": "Uma Ferramenta de Suporte ao Ensino de Modelagem de Sistemas Distribuídos Críticos: Uma Experiência Prática",
+    "authors": [
+      {
+        "authorId": "2054856992",
+        "name": "Edwin Monteiro"
+      },
+      {
+        "authorId": "37302416",
+        "name": "Luis Rivero"
+      },
+      {
+        "authorId": "151180437",
+        "name": "Raimundo Barreto"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "paperId": "1a2e1bfa5281112146e1e1557313603cc789ceba",
+    "title": "Desarrollo de Sistemas Distribuidos de Tiempo Real y de Criticidad Mixta a través del Estándar DDS",
+    "authors": [
+      {
+        "authorId": "2126633884",
+        "name": "Héctor Pérez Tijero"
+      },
+      {
+        "authorId": "1685691",
+        "name": "J. Javier Gutiérrez"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "paperId": "b406e8d92d1ca94b78ca9e09cc655864d5855f1a",
+    "title": "Dispositivo de Automação Residencial Usando Princípios de Sistemas Distribuídos.",
+    "authors": [
+      {
+        "authorId": "2107249854",
+        "name": "J. Costa"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "paperId": "0e9242872849dfb96d738e95e667d04ff3990a9a",
+    "title": "Dispositivo de Automação Residencial Usando Princípios de Sistemas Distribuídos.",
+    "authors": [
+      {
+        "authorId": "2134685231",
+        "name": "John Lennon Sousa Costa"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "paperId": "960da1f980f828abe35ce5e2151dbe67a9f14060",
+    "title": "Uma Solução de Difusão Confiável Hierárquica em Sistemas Distribuídos Assíncronos",
+    "authors": [
+      {
+        "authorId": "144400840",
+        "name": "L. A. Rodrigues"
+      },
+      {
+        "authorId": "2357277079",
+        "name": "Élise Jeanneau"
+      },
+      {
+        "authorId": "2064590996",
+        "name": "E. P. Duarte"
+      },
+      {
+        "authorId": "144694324",
+        "name": "Luciana Arantes"
+      }
+    ],
+    "year": 2017
+  },
+  {
+    "paperId": "bb4cfc93aecf6a393be1048657ec8c8365d1c1d1",
+    "title": "Minicursos do XXXVIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+    "authors": [
+      {
+        "authorId": "31497722",
+        "name": "Heitor S. Ramos"
+      },
+      {
+        "authorId": "2073551936",
+        "name": "A. Abelém"
+      },
+      {
+        "authorId": "145687176",
+        "name": "Stênio Fernandes"
+      },
+      {
+        "authorId": "1723168",
+        "name": "E. Cerqueira"
+      }
+    ],
+    "year": 2017
+  },
+  {
+    "paperId": "a6a0493b399cc34bd0d06d8414a1bb1f85081065",
+    "title": "Um processo de desenvolvimento de software focado em sistemas distribuídos autonômicos",
+    "authors": [
+      {
+        "authorId": "2070096917",
+        "name": "P. Prado"
+      }
+    ],
+    "year": 2017
+  },
+  {
+    "paperId": "c29913930f2ca541f92d013ea0e185bad1535388",
+    "title": "Códigos Reed Solomon para Sistemas Distribuidos de Energías Renovables y Smart Grids a través de Dispositivos Electrónicos Inteligentes sobre Tecnología FPGA",
+    "authors": [
+      {
+        "authorId": "1403982381",
+        "name": "C. Sandoval-Ruiz"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "paperId": "42d6965e92f6107b59fe51c67f8013cd6ed01b98",
+    "title": "Metaherramientas MDE para el diseño de entornos de desarrollo de sistemas distribuidos de tiempo real",
+    "authors": [
+      {
+        "authorId": "2065074092",
+        "name": "César Cuevas Cuesta"
+      }
+    ],
+    "year": 2016
+  },
+  {
+    "paperId": "b38771bed9e0238bdb2781a668b996e51a1050b2",
+    "title": "NoSQL en sistemas distribuidos sobre cluster Hadoop",
+    "authors": [
+      {
+        "authorId": "51031698",
+        "name": "A. Martín"
+      },
+      {
+        "authorId": "9938832",
+        "name": "S. Chávez"
+      },
+      {
+        "authorId": "144260769",
+        "name": "Nelson R. Rodríguez"
+      },
+      {
+        "authorId": "66097099",
+        "name": "M. Murazzo"
+      }
+    ],
+    "year": 2016
+  },
+  {
+    "paperId": "66e5105e5f3d9b5d07990b87ff4071615a9bb3bf",
+    "title": "INTRODUCCIÓN A LOS SISTEMAS DISTRIBUIDOS",
+    "authors": [
+      {
+        "authorId": "2032640059",
+        "name": "Orozco Aguirre Hector Rafael"
+      }
+    ],
+    "year": 2016
+  },
+  {
+    "paperId": "7528a29b08dd91bc25d4473a55cb1d82158d4c45",
+    "title": "Uma Proposta de Difusão Confiável Hierárquica em Sistemas Distribuídos Assíncronos",
+    "authors": [
+      {
+        "authorId": "2081906673",
+        "name": "Denis Jeanneau"
+      },
+      {
+        "authorId": "2065889462",
+        "name": "L. A. Rodrigues"
+      },
+      {
+        "authorId": "2125529345",
+        "name": "E. P. Duarte Jr."
+      },
+      {
+        "authorId": "144694324",
+        "name": "Luciana Arantes"
+      }
+    ],
+    "year": 2016
+  },
+  {
+    "paperId": "501a75d5105ae5b4426cf471216f5b4973ac18fc",
+    "title": "Framework para Sistemas Distribuídos em Tempo-real",
+    "authors": [
+      {
+        "authorId": "2145564415",
+        "name": "Roberto Daniel Alves Duarte"
+      }
+    ],
+    "year": 2016
+  },
+  {
+    "paperId": "644d4721298ad35bf0d90d97d0e15ca6f61de21e",
+    "title": "Sistemas distribuidos. Replicación de datos",
+    "authors": [
+      {
+        "authorId": "2056165027",
+        "name": "Alejandro Delgado"
+      }
+    ],
+    "year": 2016
+  },
+  {
+    "paperId": "6de4701f46fb09f582e1713491053dd1d3359ead",
+    "title": "Estabilidade transitória de sistemas de distribuição ativos com recursos energéticos distribuídos: um estudo de caso",
+    "authors": [
+      {
+        "authorId": "2209296890",
+        "name": "Guilherme S. de Morais"
+      },
+      {
+        "authorId": "134461731",
+        "name": "Marina Resener"
+      },
+      {
+        "authorId": "116347303",
+        "name": "M. S. Ramos"
+      },
+      {
+        "authorId": "2074401597",
+        "name": "Younes Mohammadi"
+      }
+    ],
+    "year": 2020
+  },
+  {
+    "paperId": "f9a56ba4bf5a3aca48b2dbdf62073a69cd57c78f",
+    "title": "Experiencia de la aplicación de la metodología Flipped-Teaching en la asignatura Concurrencia y Sistemas Distribuidos",
+    "authors": [
+      {
+        "authorId": "72717401",
+        "name": "Estefanía Argente Villaplana"
+      },
+      {
+        "authorId": "2077273088",
+        "name": "Agustín Rafael Espinosa Minguet"
+      },
+      {
+        "authorId": "65927563",
+        "name": "Ana García Fornés"
+      }
+    ],
+    "year": 2015
+  },
+  {
+    "paperId": "b406760b856e024c64f69f9ab02e09ef14ce82a6",
+    "title": "Controle de Sistemas de Manufatura Distribuídos no contexto da Indústria 4.0.",
+    "authors": [
+      {
+        "authorId": "2193870808",
+        "name": "J. T. Veiga"
+      },
+      {
+        "authorId": "2061020623",
+        "name": "Marcosiris A. O. Pessoa"
+      },
+      {
+        "authorId": "2059176301",
+        "name": "F. Junqueira"
+      },
+      {
+        "authorId": "31658125",
+        "name": "P. Miyagi"
+      },
+      {
+        "authorId": "133827712",
+        "name": "Diolino J. Santos Filho"
+      }
+    ],
+    "year": 2020
+  },
+  {
+    "paperId": "440a04f857260c838de95a40f81cfc2488421b92",
+    "title": "A Utilização de Sistemas Distribuídos no Desenvolvimento de Material Instrucional para a Inclusão Digital do Projeto Conhecendo o Linux",
+    "authors": [
+      {
+        "authorId": "98545045",
+        "name": "I. N. Alves"
+      },
+      {
+        "authorId": "2286027568",
+        "name": "Weslley Guilherme Lagea"
+      },
+      {
+        "authorId": "2286026122",
+        "name": "Israel Nogueira Alvesa"
+      }
+    ],
+    "year": 2015
+  },
+  {
+    "paperId": "18465180ea6ba8c66e59eced3821cdd3f881a2fd",
+    "title": "Una propuesta de sistemas distribuidos con componentes autónomos distribuidos en SCEL e implementados en Erlang",
+    "authors": [
+      {
+        "authorId": "120785157",
+        "name": "Mónica García"
+      },
+      {
+        "authorId": "1397245817",
+        "name": "Manuel Hernández-Gutiérrez"
+      },
+      {
+        "authorId": "122919056",
+        "name": "R. Ruíz"
+      },
+      {
+        "authorId": "2065723328",
+        "name": "Felipe Trujillo-Romero"
+      }
+    ],
+    "year": 2015
+  },
+  {
+    "paperId": "cc6b386e42f7e9ba8c81d4aa73d0b81bf4341941",
+    "title": "Una revisión de técnicas para la optimización del despliegue y planificación de sistemas de tiempo real distribuidos",
+    "authors": [
+      {
+        "authorId": "2078219244",
+        "name": "Andoni Amurrio"
+      },
+      {
+        "authorId": "2082623528",
+        "name": "Ekain Azketa"
+      },
+      {
+        "authorId": "1685691",
+        "name": "J. Javier Gutiérrez"
+      },
+      {
+        "authorId": "147397230",
+        "name": "M. Aldea"
+      },
+      {
+        "authorId": "151059538",
+        "name": "Jorge Parra"
+      }
+    ],
+    "year": 2019
+  },
+  {
+    "paperId": "6927f7524d43befd3ea617a76ba6a368bf54ff13",
+    "title": "Eficiência energética: sistemas de iluminação com LEDs, distribuídos em corrente contínua e utilizando energia fotovoltaica",
+    "authors": [
+      {
+        "authorId": "1450746756",
+        "name": "Carolina Lannes Boquimpani"
+      },
+      {
+        "authorId": "75117742",
+        "name": "A. Motta"
+      },
+      {
+        "authorId": "98839466",
+        "name": "Osvaldo Luiz de Carvalho Souza"
+      },
+      {
+        "authorId": "1450589239",
+        "name": "Carlos Henriques Ventura do Rosário Oliveira"
+      }
+    ],
+    "year": 2019
+  },
+  {
+    "paperId": "9303326c80acb8ececf3b9c957e72d86067fb1b5",
+    "title": "UMA ANÁLISE DE ALGORITMOS DE CONSENSO PARA BLOCKCHAIN VISANDO À IMPLEMENTAÇÃO DE SISTEMAS DE INFORMAÇÃO DISTRIBUÍDOS TRANSPARENTES",
+    "authors": [
+      {
+        "authorId": "46769740",
+        "name": "C. Rodrigues"
+      },
+      {
+        "authorId": "51138462",
+        "name": "P. A. D. Silva"
+      }
+    ],
+    "year": 2019
+  },
+  {
+    "paperId": "704f56d93b4596400d36a5076a9e12cb1e2d3063",
+    "title": "Comunicación en sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "69055200",
+        "name": "Espinosa Minguet"
+      },
+      {
+        "authorId": "69054864",
+        "name": "A. Rafael"
+      }
+    ],
+    "year": 2015
+  },
+  {
+    "paperId": "bbdc28bda741062e80b04ee3a7373de10b4f04f1",
+    "title": "Localización y Dimensionamiento Óptimo de Generadores Distribuidos y Bancos de Condensadores en Sistemas de Distribución",
+    "authors": [
+      {
+        "authorId": "108535711",
+        "name": "Oscar Danilo Montoya Giraldo"
+      },
+      {
+        "authorId": "65826559",
+        "name": "C. Vanegas"
+      },
+      {
+        "authorId": "2097232579",
+        "name": "L. Norena"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "paperId": "6958325a8e68579e7368f4fbc40e9bdb72dd1530",
+    "title": "Empleo de herramientas de simulación con fines docentes para desarrollar prácticas de sistemas altamente distribuidos",
+    "authors": [
+      {
+        "authorId": "69975346",
+        "name": "Alberto Núñez Covarrubias"
+      },
+      {
+        "authorId": "2089645610",
+        "name": "V. Puente"
+      },
+      {
+        "authorId": "133879954",
+        "name": "Emilia Cambronero"
+      },
+      {
+        "authorId": "103542637",
+        "name": "Luis Fernando Llana Díaz"
+      },
+      {
+        "authorId": "2071354099",
+        "name": "M. V. Espada"
+      },
+      {
+        "authorId": "2057704415",
+        "name": "S. Pickin"
+      },
+      {
+        "authorId": "138363802",
+        "name": "M. Romero"
+      },
+      {
+        "authorId": "120361198",
+        "name": "C. Mañoso"
+      },
+      {
+        "authorId": "2111729493",
+        "name": "Á. Pérez"
+      },
+      {
+        "authorId": "133661179",
+        "name": "A. Sandoval"
+      },
+      {
+        "authorId": "2076503822",
+        "name": "P. Olivera"
+      }
+    ],
+    "year": 2017
+  },
+  {
+    "paperId": "1b7006d250c6ec941667f6e0ec72db5c3271bc3f",
+    "title": "Prevenção de Ataques em Sistemas Distribuídos via Análise de Intervalos",
+    "authors": [
+      {
+        "authorId": "2098357741",
+        "name": "Vitor Mendes Paisante"
+      },
+      {
+        "authorId": "2175494182",
+        "name": "L. F. Z. Saggioro"
+      },
+      {
+        "authorId": "2175578642",
+        "name": "Raphael Ernani Rodrigues"
+      },
+      {
+        "authorId": "34372081",
+        "name": "Leonardo B. Oliveira"
+      },
+      {
+        "authorId": "39907070",
+        "name": "Fernando Magno Quintão Pereira"
+      }
+    ],
+    "year": 2014
+  },
+  {
+    "paperId": "d8908913b95158984946343f1d0f99926c3a3b23",
+    "title": "Estudio y evaluación de eficiencia de operaciones con matrices dispersas (sparse) en sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "2103703603",
+        "name": "Pierre Raimbaud"
+      }
+    ],
+    "year": 2014
+  },
+  {
+    "paperId": "fa88e43980d0fbcb9ba905bc3e1e5e683fbf734d",
+    "title": "HighFrame : uma solução para desenvolvimento em alto nível e deployment automático de sistemas distribuídos baseados em componentes",
+    "authors": [
+      {
+        "authorId": "7515987",
+        "name": "Saulo Eduardo Galilleo Souza dos Santos"
+      }
+    ],
+    "year": 2014
+  },
+  {
+    "paperId": "fd4a18a71b2bfadc93922026a25568072c2ec39a",
+    "title": "Ingeniería de software para sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "70643146",
+        "name": "P. Pesado"
+      },
+      {
+        "authorId": "8210217",
+        "name": "R. Bertone"
+      },
+      {
+        "authorId": "24377428",
+        "name": "Pablo J. Thomas"
+      },
+      {
+        "authorId": "52345334",
+        "name": "L. Marrero"
+      },
+      {
+        "authorId": "3406220",
+        "name": "Ariel C. Pasini"
+      },
+      {
+        "authorId": "2247258",
+        "name": "Lisandro Nahuel Delía"
+      },
+      {
+        "authorId": "1991057",
+        "name": "Nicolás Galdámez"
+      },
+      {
+        "authorId": "47777395",
+        "name": "Eduardo Ibáñez"
+      },
+      {
+        "authorId": "2951589",
+        "name": "César Estrebou"
+      },
+      {
+        "authorId": "52638524",
+        "name": "Alejandra Ripodas"
+      },
+      {
+        "authorId": "134825495",
+        "name": "Verónica Aguirre"
+      },
+      {
+        "authorId": "143640352",
+        "name": "Rocío Muñoz"
+      },
+      {
+        "authorId": "51136337",
+        "name": "Germán Cáseres"
+      },
+      {
+        "authorId": "144249166",
+        "name": "Santiago Medina"
+      },
+      {
+        "authorId": "1411326955",
+        "name": "Matías Dell'Oso"
+      },
+      {
+        "authorId": "52484938",
+        "name": "Juan Manuel Paniego"
+      },
+      {
+        "authorId": "52323587",
+        "name": "Martín Puig"
+      },
+      {
+        "authorId": "3406804",
+        "name": "Sebastián Rodríguez Eguren"
+      }
+    ],
+    "year": 2014
+  },
+  {
+    "paperId": "1a3d04cae06f34a52c375c055105e3804c00b0da",
+    "title": "Sistema de monitorización de sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "103533272",
+        "name": "Alberto Vilas Virulegio"
+      }
+    ],
+    "year": 2014
+  },
+  {
+    "paperId": "44c4e7d22fb79a1fe462dd00df7a575e71a57c24",
+    "title": "Observadores Distribuidos Garantistas para Sistemas en Red",
+    "authors": [
+      {
+        "authorId": "144621831",
+        "name": "R. A. García"
+      },
+      {
+        "authorId": "145462092",
+        "name": "F. Rubio"
+      },
+      {
+        "authorId": "2074312849",
+        "name": "Luis Orihuela"
+      },
+      {
+        "authorId": "144401072",
+        "name": "Pablo Millán"
+      },
+      {
+        "authorId": "144928944",
+        "name": "Manuel G. Ortega"
+      }
+    ],
+    "year": 2017
+  },
+  {
+    "paperId": "b373d3ee95257a926e272243187cdcb9186ee8c8",
+    "title": "Prácticas de programación de sistemas distribuidos con dispositivos móviles",
+    "authors": [
+      {
+        "authorId": "74329833",
+        "name": "Coromoto León Hernández"
+      },
+      {
+        "authorId": "74088233",
+        "name": "Carlos Segura González"
+      }
+    ],
+    "year": 2013
+  },
+  {
+    "paperId": "53ce43e967c1ef90fe11ab57f369d6811873bc42",
+    "title": "Grupo de Pesquisa em Redes de Computadores, Sistemas Distribuídos e Multimídia",
+    "authors": [
+      {
+        "authorId": "51050613",
+        "name": "Rommel Lima"
+      },
+      {
+        "authorId": "34921105",
+        "name": "M. V. Lima"
+      }
+    ],
+    "year": 2013
+  },
+  {
+    "paperId": "d1f180e21fdb73b8884f42299ba70dba08903366",
+    "title": "Análise e Modelagem de Algoritmos para Eleição de Líder em Sistemas Distribuídos",
+    "authors": [
+      {
+        "authorId": "144334971",
+        "name": "E. R. Silva"
+      },
+      {
+        "authorId": "133898994",
+        "name": "E. C. Julião"
+      },
+      {
+        "authorId": "2066206712",
+        "name": "P. T. Endo"
+      }
+    ],
+    "year": 2013
+  },
+  {
+    "paperId": "ea7a07e4880de9706ca3cd8153b8670ef8344ac4",
+    "title": "CONCURRENCIA Y SISTEMAS DISTRIBUIDOS",
+    "authors": [
+      {
+        "authorId": "137481743",
+        "name": "Francisco Daniel Muñoz Escoí"
+      },
+      {
+        "authorId": "72717401",
+        "name": "Estefanía Argente Villaplana"
+      },
+      {
+        "authorId": "2077273088",
+        "name": "Agustín Rafael Espinosa Minguet"
+      },
+      {
+        "authorId": "138617994",
+        "name": "Pablo Galdámez Saiz"
+      },
+      {
+        "authorId": "65927563",
+        "name": "Ana García Fornés"
+      },
+      {
+        "authorId": "2066162990",
+        "name": "Rubén de Juan Marín"
+      },
+      {
+        "authorId": "1405039431",
+        "name": "Juansa Sendra Roig"
+      }
+    ],
+    "year": 2013
+  },
+  {
+    "paperId": "bd683cb66ee220e9ae0000f5b284298e182eb764",
+    "title": "Sistemas distribuidos: tecnología y casos de estudio",
+    "authors": [
+      {
+        "authorId": "70643146",
+        "name": "P. Pesado"
+      },
+      {
+        "authorId": "24377428",
+        "name": "Pablo J. Thomas"
+      },
+      {
+        "authorId": "8210217",
+        "name": "R. Bertone"
+      },
+      {
+        "authorId": "32543528",
+        "name": "H. Ramón"
+      },
+      {
+        "authorId": "51963708",
+        "name": "M. Boracchia"
+      },
+      {
+        "authorId": "47777395",
+        "name": "Eduardo Ibáñez"
+      },
+      {
+        "authorId": "2951589",
+        "name": "César Estrebou"
+      },
+      {
+        "authorId": "52345334",
+        "name": "L. Marrero"
+      },
+      {
+        "authorId": "2247258",
+        "name": "Lisandro Nahuel Delía"
+      },
+      {
+        "authorId": "1991057",
+        "name": "Nicolás Galdámez"
+      },
+      {
+        "authorId": "51136337",
+        "name": "Germán Cáseres"
+      },
+      {
+        "authorId": "51987841",
+        "name": "María Bernarda Albanesi"
+      }
+    ],
+    "year": 2012
+  },
+  {
+    "paperId": "5d2e045d964996c32fad03a6d5193a41bd8504f5",
+    "title": "Asignación de tareas en sistemas distribuidos de tiempo real",
+    "authors": [
+      {
+        "authorId": "143757123",
+        "name": "N. Pérez"
+      },
+      {
+        "authorId": "2843997",
+        "name": "Mario Berón"
+      },
+      {
+        "authorId": "145517247",
+        "name": "E. A. Miranda"
+      },
+      {
+        "authorId": "3378939",
+        "name": "Hernán Bernardis"
+      },
+      {
+        "authorId": "2523215",
+        "name": "Mariano Luzza"
+      },
+      {
+        "authorId": "69340436",
+        "name": "Matías Truglio"
+      }
+    ],
+    "year": 2012
+  },
+  {
+    "paperId": "9126a7e362f6c39566562575c9ccd38262dd62fa",
+    "title": "Reconfiguración Dinámica de Sistemas Distribuidos en Tiempo-Real Basada en Agentes",
+    "authors": [
+      {
+        "authorId": "2067140989",
+        "name": "Oscar A. Esquivel-Flores"
+      },
+      {
+        "authorId": "2084902863",
+        "name": "Héctor Benítez-Pérez"
+      }
+    ],
+    "year": 2012
+  },
+  {
+    "paperId": "a830b990d172ac668935ed5d15bf1daa6b257cb7",
+    "title": "Modelado comportamental de convertidores CC-CC para el análisis y simulación de sistemas distribuidos de potencia",
+    "authors": [
+      {
+        "authorId": "82199229",
+        "name": "O. Ramírez"
+      },
+      {
+        "authorId": "66601645",
+        "name": "Jesús Ángel"
+      }
+    ],
+    "year": 2011
+  },
+  {
+    "paperId": "4db80b6ade3b27f9b6679c8ed7d94f08748665d4",
+    "title": "Off, un nuevo enfoque en la construcción de Sistemas Operativos Distribuidos",
+    "authors": [
+      {
+        "authorId": "2063000236",
+        "name": "B. Cámara"
+      },
+      {
+        "authorId": "145475596",
+        "name": "F. José."
+      }
+    ],
+    "year": 2015
+  },
+  {
+    "paperId": "080bc5bc9e9bcbf3a1d9cd8b0231e54dffea6aa6",
+    "title": "Tolerancia a fallos en sistemas distribuidos mediante replicación de procesos",
+    "authors": [
+      {
+        "authorId": "2099688834",
+        "name": "Sergio Arévalo Viñuales"
+      }
+    ],
+    "year": 2011
+  },
+  {
+    "paperId": "4e71ceeb9f47fbb494d9fa6e74dd4e2b409ae652",
+    "title": "Estabilidad en Sistemas Distribuidos de Consenso de Larga Vida",
+    "authors": [
+      {
+        "authorId": "2061063272",
+        "name": "J. Figueroa"
+      }
+    ],
+    "year": 2011
+  },
+  {
+    "paperId": "2b0d8281612f90cbb90d388b585cd11c85bb7c29",
+    "title": "Seguridad en sistemas distribuidos federados",
+    "authors": [
+      {
+        "authorId": "2649635",
+        "name": "Javier Echaiz"
+      },
+      {
+        "authorId": "52423311",
+        "name": "Pablo Davicino"
+      },
+      {
+        "authorId": "1812951",
+        "name": "Jorge Ardenghi"
+      }
+    ],
+    "year": 2011
+  },
+  {
+    "paperId": "c39dd1d8dbca32d6463f85c9b881d1c689527f93",
+    "title": "Los sistemas distribuidos, bajo el enfoque de cloud computing y sus aplicaciones",
+    "authors": [
+      {
+        "authorId": "98750138",
+        "name": "D. Castillo"
+      },
+      {
+        "authorId": "105025387",
+        "name": "Julieth Paola Barrientos Matute"
+      }
+    ],
+    "year": 2011
+  },
+  {
+    "paperId": "6e7911abc8fd745c364d4c61212a9153dc5c564c",
+    "title": "Modelo de arquitectura para gestión cooperativa de sistemas y servicios distribuidos basado en agentes autónomos",
+    "authors": [
+      {
+        "authorId": "2276694091",
+        "name": "S. Camino"
+      },
+      {
+        "authorId": "90051001",
+        "name": "F. Javier."
+      }
+    ],
+    "year": 2015
+  },
+  {
+    "paperId": "521309dc7251833205ab26d916b585f14804b217",
+    "title": "Exclusión mutua para coordinación de sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "2094604",
+        "name": "Karina Cenci"
+      },
+      {
+        "authorId": "1812951",
+        "name": "Jorge Ardenghi"
+      }
+    ],
+    "year": 2001
+  },
+  {
+    "paperId": "8c0ccd1cc627bb1f3d830a2ae48529bf893f775d",
+    "title": "Protocolos tolerantes a faltas bizantinas para sistemas distribuídos dinâmicos",
+    "authors": [
+      {
+        "authorId": "2560438",
+        "name": "E. Alchieri"
+      }
+    ],
+    "year": 2011
+  },
+  {
+    "paperId": "494d4882e4aebc8b11b66ed6cbf582636787b623",
+    "title": "Metodologia para avaliação da influência de geradores distribuídos nos níveis de curto-circuito em sistemas de distribuição de energia",
+    "authors": [
+      {
+        "authorId": "30797490",
+        "name": "Daniel Petean"
+      }
+    ],
+    "year": 2015
+  },
+  {
+    "paperId": "7b7784d8b976e82318ec2973872310088624c492",
+    "title": "Planificación, análisis y optimización de sistemas distribuidos de tiempo real estricto",
+    "authors": [
+      {
+        "authorId": "1685691",
+        "name": "J. Javier Gutiérrez"
+      },
+      {
+        "authorId": "87335458",
+        "name": "J. Javier."
+      }
+    ],
+    "year": 2010
+  },
+  {
+    "paperId": "5a1e5c2e74134075aa58fcf71cc3024ae10d6927",
+    "title": "Generación automática de pruebas de validación de prácticas de sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "2052799727",
+        "name": "E. A. D. L. C. Marín"
+      },
+      {
+        "authorId": "2069177187",
+        "name": "M. A. G. Tamargo"
+      },
+      {
+        "authorId": "2094095025",
+        "name": "María José Suárez Cabal"
+      }
+    ],
+    "year": 2010
+  },
+  {
+    "paperId": "b9c9054ff7a3f7aade4be01f6bbffeccaed41ff7",
+    "title": "Controle de Admissão para QoS em Sistemas Distribuídos Híbridos, Tolerantes a Falhas",
+    "authors": [
+      {
+        "authorId": "2120000925",
+        "name": "Sérgio Gorender"
+      },
+      {
+        "authorId": "134654643",
+        "name": "R. Macêdo"
+      },
+      {
+        "authorId": "2203686145",
+        "name": "Waltemir Lemos Pacheco Júnior"
+      }
+    ],
+    "year": 2010
+  },
+  {
+    "paperId": "be5fc87179039d6d00f208c0defe833100cde4dc",
+    "title": "Tecnologias de sistemas distribuídos implementadas em Java: Sockets, RMI, RMI-IIOP e CORBA",
+    "authors": [
+      {
+        "authorId": "2133995416",
+        "name": "P. Neto"
+      },
+      {
+        "authorId": "144053388",
+        "name": "R. Silva"
+      }
+    ],
+    "year": 2009
+  },
+  {
+    "paperId": "88ddfd3299417fa68ec5bc3f28db3d86ebc10ea0",
+    "title": "Estados globais consistentes em sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "2104418627",
+        "name": "Islene C. Garcia"
+      },
+      {
+        "authorId": "2095915327",
+        "name": "L. E. Buzato"
+      }
+    ],
+    "year": 1998
+  },
+  {
+    "paperId": "ab4b2cfe17a325779fc328f21c82574c96d8bdab",
+    "title": "Un algoritmo óptimo para la detección y resolución de interbloqueos en sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "70120215",
+        "name": "M. P. Miguez"
+      }
+    ],
+    "year": 2007
+  },
+  {
+    "paperId": "6e2569288b6d105d4ad66c3c806c0b6a225aac67",
+    "title": "Programación de sistemas distribuidos en entornos de redes fraccionables",
+    "authors": [
+      {
+        "authorId": "2094076560",
+        "name": "P. Quirós"
+      }
+    ],
+    "year": 2004
+  },
+  {
+    "paperId": "e59e41d76473ed3e817e44159c208ba57115cd74",
+    "title": "Um Serviço de Tempo Global para Sistemas Distribuídos de Larga Escala",
+    "authors": [
+      {
+        "authorId": "2057696366",
+        "name": "J. Fraga"
+      },
+      {
+        "authorId": "96539268",
+        "name": "Jean-Marie Farines"
+      },
+      {
+        "authorId": "98617328",
+        "name": "Carlos Montez"
+      }
+    ],
+    "year": 1998
+  },
+  {
+    "paperId": "e8cd468b54ed62dff9babebb568ba7e7e3ada447",
+    "title": "Uma técnica de análise de conformidade comportamental para sistemas distribuídos.",
+    "authors": [
+      {
+        "authorId": "123606325",
+        "name": "A. S. Bezerra"
+      },
+      {
+        "authorId": "123606325",
+        "name": "A. S. Bezerra"
+      }
+    ],
+    "year": 2008
+  },
+  {
+    "paperId": "1d4475d61a576ac8a97314fc3f74dc3dc1e28b77",
+    "title": "IADESS: infraestructura para la auto-gestión descentralizada de sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "143669010",
+        "name": "J. L. L. Pablo"
+      },
+      {
+        "authorId": "143689873",
+        "name": "C. Fernández"
+      },
+      {
+        "authorId": "2069951717",
+        "name": "D. Valenti"
+      }
+    ],
+    "year": 2008
+  },
+  {
+    "paperId": "aeb2b963e1881b2faeb49db29a0bcb019852e7a4",
+    "title": "Otimizando a comunicação entre detectores de defeitos em sistemas distribuídos",
+    "authors": [
+      {
+        "authorId": "46757211",
+        "name": "R. Turchetti"
+      },
+      {
+        "authorId": "2068256347",
+        "name": "Raul Ceretta Nunes"
+      }
+    ],
+    "year": 2008
+  },
+  {
+    "paperId": "27ef64661285994b791c424d069ca2546973519e",
+    "title": "Sistemas distribuídos aplicados à compressão e recuperação de Sistemas distribuídos aplicados à compressão e recuperação de Sistemas distribuídos aplicados à compressão e recuperação de Sistemas distribuídos aplicados à compressão e recuperação de",
+    "authors": [
+      {
+        "authorId": "70630071",
+        "name": "Fabio Jorge Assad Gostaldon"
+      },
+      {
+        "authorId": "2079518300",
+        "name": "A. Shinoda"
+      }
+    ],
+    "year": 2008
+  },
+  {
+    "paperId": "8baecf17ba3919b67307a3470fb62de489503260",
+    "title": "Componentes software para sistemas distribuidos de tiempo real",
+    "authors": [
+      {
+        "authorId": "145164522",
+        "name": "Daniel Garrido Márquez"
+      }
+    ],
+    "year": 2006
+  },
+  {
+    "paperId": "9595f95fc232751fdc80b4527bad63737e4100df",
+    "title": "Investigación en características y aplicaciones de Ingeniería de Software de Sistemas Distribuidos",
+    "authors": [
+      {
+        "authorId": "70643146",
+        "name": "P. Pesado"
+      },
+      {
+        "authorId": "8210217",
+        "name": "R. Bertone"
+      },
+      {
+        "authorId": "32543528",
+        "name": "H. Ramón"
+      },
+      {
+        "authorId": "24377428",
+        "name": "Pablo J. Thomas"
+      },
+      {
+        "authorId": "51963708",
+        "name": "M. Boracchia"
+      },
+      {
+        "authorId": "3406220",
+        "name": "Ariel C. Pasini"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "paperId": "7c058f4c7344b028b943960c5c4f774350c3601b",
+    "title": "Un nuevo enfoque para la especificación y modelación de sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "104960841",
+        "name": "G. Serrano"
+      }
+    ],
+    "year": 1980
+  },
+  {
+    "paperId": "f1e307a71415046a557440c24b5d9a46a94f1b03",
+    "title": "Redada. Reemplazamiento dinámico de software mediante grupos de procesos en sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "144788290",
+        "name": "Jóse Centeno Gonzalez"
+      }
+    ],
+    "year": 2004
+  },
+  {
+    "paperId": "116ed4117b733d14117ffda32f1ec67fbe7771a0",
+    "title": "Ambiente de Desenvolvimento e Avaliação de Algoritmos de Exclusão Mútua para Sistemas Distribuídos",
+    "authors": [
+      {
+        "authorId": "2190004007",
+        "name": "Kêmio de Oliveira Couto"
+      },
+      {
+        "authorId": "23536224",
+        "name": "M. Mendes"
+      },
+      {
+        "authorId": "122099808",
+        "name": "O. S. Carvalho"
+      }
+    ],
+    "year": 1994
+  },
+  {
+    "paperId": "7dbe4ab7ed57a5bead1cd7d0dd7487467923f8e2",
+    "title": "Drl: un lenguaje lógico para sistemas distribuidos de tiempo real",
+    "authors": [
+      {
+        "authorId": "123135356",
+        "name": "M. Rodríguez"
+      }
+    ],
+    "year": 1995
+  },
+  {
+    "paperId": "d3f3faf7b38bb5fc6217fbfbd88a08dfc82dc316",
+    "title": "Um Protocolo Distribuído para o Ordenamento de Mensagens em Sistemas Distribuídos Multicast",
+    "authors": [
+      {
+        "authorId": "2081967630",
+        "name": "Diego Kreutz"
+      },
+      {
+        "authorId": "88739556",
+        "name": "L. M. Schnorr"
+      },
+      {
+        "authorId": "8775305",
+        "name": "Fabio Kepler"
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "paperId": "8c1efa1b17ffda2187c21842519df846978536eb",
+    "title": "Sistemas distribuidos de gestión de documentos multimedia",
+    "authors": [
+      {
+        "authorId": "145853625",
+        "name": "José Jesús Acebrón Antón"
+      }
+    ],
+    "year": 1998
+  },
+  {
+    "paperId": "dbe2b98a284573b1ba05998f01095813995e04e2",
+    "title": "Uma contribuição a programação e escalonamento de sistemas distribuidos de tempo-real",
+    "authors": [
+      {
+        "authorId": "116100953",
+        "name": "Juan Manoel Adan Coello"
+      }
+    ],
+    "year": 1993
+  },
+  {
+    "paperId": "e7d33915ddd30aa1f1118c0ac84ce80b3cdb9792",
+    "title": "Balance de carga adaptativo basado en un sistema híbrido neuro-difuso para sistemas distribuidos de uso intensivo de CPU",
+    "authors": [
+      {
+        "authorId": "2094672862",
+        "name": "Marcelo Guillermo Cena"
+      },
+      {
+        "authorId": "117846511",
+        "name": "M. L. Crespo"
+      },
+      {
+        "authorId": "2081075740",
+        "name": "Carlos Kavka"
+      }
+    ],
+    "year": 1996
+  },
+  {
+    "paperId": "a5d8a0ceef7474747be780b23e03a49c7199cb0b",
+    "title": "Mecanismo de tolerancia a fallos basados en software para sistemas distribuidos",
+    "authors": [
+      {
+        "authorId": "144216720",
+        "name": "C. López"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "paperId": "74727d6a84bd63c15f678fc86f113512335a476b",
+    "title": "Sobre administradores de recursos redundantes en sistemas distribuídos",
+    "authors": [
+      {
+        "authorId": "1812951",
+        "name": "Jorge Ardenghi"
+      },
+      {
+        "authorId": "70094100",
+        "name": "Juan E. Sicardi"
+      },
+      {
+        "authorId": "146419496",
+        "name": "Claudio A. Rada"
+      }
+    ],
+    "year": 1996
+  },
+  {
+    "paperId": "fe57e66e258b3fa6da398ed7ce6bbb7f5b9871d9",
+    "title": "Especificação Formal de Sistemas Distribuidos Usando Z e Sistemas de Transição",
+    "authors": [
+      {
+        "authorId": "2064724900",
+        "name": "C. Salazar"
+      },
+      {
+        "authorId": "2211526466",
+        "name": "Silvio Meira"
+      }
+    ],
+    "year": 1988
+  },
+  {
+    "paperId": "9278cfaca89e04ee09f55520172b563c91f86dc9",
+    "title": "Análisis y planificación de sistemas distribuidos de tiempo real estricto",
+    "authors": [
+      {
+        "authorId": "50489698",
+        "name": "J. G. Aguado"
+      }
+    ],
+    "year": 1997
+  },
+  {
+    "paperId": "b882da56d0c80fdd54dbf1b3c529e92a10bc8638",
+    "title": "Ambiente de Concepção de Software para Sistemas Distribuídos, Baseado em Rede de Petri",
+    "authors": [
+      {
+        "authorId": "2081180959",
+        "name": "Carlos A. Maziero"
+      },
+      {
+        "authorId": "96539268",
+        "name": "Jean-Marie Farines"
+      }
+    ],
+    "year": 1988
+  },
+  {
+    "paperId": "55d9034d193361bb0ef848f8a5128c8b2451887f",
+    "title": "Uma Ferramenta Orientada a Objetos para Monitoramento de Cargas em Sistemas Distribuídos",
+    "authors": [
+      {
+        "authorId": "2133097917",
+        "name": "Paulino Villas Boas"
+      },
+      {
+        "authorId": "144204894",
+        "name": "G. Travieso"
+      }
+    ],
+    "year": 2004
+  },
+  {
+    "paperId": "693d6fd0f4193e1940a00494f6549cef1ad44c8a",
+    "title": "Implementação e Análise de Desempenho de um Mecanismo Adaptativo para Tolerância a Falhas em Sistemas Distribuídos com QoS",
+    "authors": [
+      {
+        "authorId": "2120000925",
+        "name": "Sérgio Gorender"
+      },
+      {
+        "authorId": "134654643",
+        "name": "R. Macêdo"
+      },
+      {
+        "authorId": "2056118047",
+        "name": "M. Cunha"
+      }
+    ],
+    "year": 2004
+  },
+  {
+    "paperId": "c4eae8a0e211f0b69d083bf416b491056a6d0c66",
+    "title": "Lenguaje de control en tiempo real para sistemas distribuidos. Aportaciones metodológicas y aplicaciones",
+    "authors": [
+      {
+        "authorId": "32072844",
+        "name": "J. Somolinos"
+      }
+    ],
+    "year": 1983
+  },
+  {
+    "paperId": "e3fb504856deb776c12ab882011252da5e70e5a1",
+    "title": "Validando Sistemas Distribuídos Desenvolvidos em Java Utilizando Injeção de Falhas de Comunicação por Software",
+    "authors": [
+      {
+        "authorId": "2084277955",
+        "name": "Gabriela Jacques-Silva"
+      },
+      {
+        "authorId": "134659987",
+        "name": "R. Moraes"
+      },
+      {
+        "authorId": "2053297273",
+        "name": "T. Weber"
+      },
+      {
+        "authorId": "144279383",
+        "name": "Eliane Martins"
+      }
+    ],
+    "year": 2004
+  },
+  {
+    "paperId": "172655fa3587c8f086935271ce7369fb99107e6a",
+    "title": "Una solución al problema del interbloqueo en sistemas distribuidos con modelo AND de petición de recursos",
+    "authors": [
+      {
+        "authorId": "71711349",
+        "name": "F. Figueredo"
+      }
+    ],
+    "year": 1997
+  },
+  {
+    "paperId": "f746360b368d670a798122dd56be4513b79e2c9b",
+    "title": "Diseño y verificación de sistemas distribuidos mediante la aplicación combinada de métodos formales",
+    "authors": [
+      {
+        "authorId": "2079547033",
+        "name": "Alberto Gil Solla"
+      }
+    ],
+    "year": 2000
+  },
+  {
+    "paperId": "4f3e924974dda2d6f6c41baec79d4aac560dbbf5",
+    "title": "Propuesta de una nueva técnica de puntos de recuperación a dos niveles para sistemas distribuidos de control industrial",
+    "authors": [
+      {
+        "authorId": "133634164",
+        "name": "Alicia Moreno"
+      }
+    ],
+    "year": 2002
+  },
+  {
+    "paperId": "ce498fe98e907a5d192effb68f7fb069d662a243",
+    "title": "Técnicas para Alocação Estática de Tarefas em Sistemas Distribuídos",
+    "authors": [
+      {
+        "authorId": "2217821845",
+        "name": "H. K. Huang"
+      },
+      {
+        "authorId": "31779967",
+        "name": "V. C. Barbosa"
+      }
+    ],
+    "year": 1988
+  },
+  {
+    "paperId": "c31219cc87ee049fae2f23c30bdb21afb38f5423",
+    "title": "Modelación y evaluación de la tolerancia a fallos de sistemas distribuidos con capacidad de reconfiguración",
+    "authors": [
+      {
+        "authorId": "81547417",
+        "name": "J. A. López"
+      }
+    ],
+    "year": 1987
+  },
+  {
+    "paperId": "05acf237c128c3f0544ba2de415da40f9381560a",
+    "title": "Sistemas distribuidos: control de concurrencia",
+    "authors": [
+      {
+        "authorId": "2094604",
+        "name": "Karina Cenci"
+      },
+      {
+        "authorId": "1812951",
+        "name": "Jorge Ardenghi"
+      }
+    ],
+    "year": 2001
+  },
+  {
+    "paperId": "e54307c554d5139f53ca2d45f30d034117c5d59f",
+    "title": "Abordagens de Comunicação em Sistemas Distribuídos Tempo Real",
+    "authors": [
+      {
+        "authorId": "1741919144",
+        "name": "P. Barcelos"
+      },
+      {
+        "authorId": "2053297273",
+        "name": "T. Weber"
+      }
+    ],
+    "year": 1998
+  }
+]
